@@ -72,18 +72,19 @@ Every topic is organized into its own section, featuring:
 
 ---
 
-## Array and String
-| Sr. No. | Problem Name                                                                                                        | Data Structures  | Time Complexity | Space Complexity | Solution Link | Tips  | Progress                                                                                                                                                        |
-| ------: | ------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------
-|       1 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                               | String, Two Pointers              | O(n + m)           | O(n + m)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/1.%20Merge%20Strings%20Alternately.cs)                                   | | |
-|       2 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)             | String, Math               | O(n + m)             | O(n + m)              | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/2.%20Greatest%20Common%20Divisor%20of%20Strings.cs)              |
-|       3 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Array                | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/3.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cs) |
-|       4 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                               | Array, Greedy                | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/4.%20Can%20Place%20Flowers.cs)                                                   |
-|       5 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                             | String, Two Pointers                | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/5.%20Reverse%20Vowels%20of%20a%20String%20.cs)                               |
-|       6 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                               | String, Two Pointers                 | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/6.%20Reverse%20Words%20in%20a%20String.cs)                                 |
-|       7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                         | Array, Prefix Sum                | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/7.%20Product%20of%20Array%20Except%20Self.cs)                           |
-|       8 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                     | Array, Greedy                | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/8.%20Increasing%20Triplet%20Subsequence.cs)                         |
-|       9 | [String Compression](https://leetcode.com/problems/string-compression/)                                             | Array, Two Pointers                 | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/9.%20String%20Compression.cs)                                                  |
+## Array and String  
+
+| Sr. No. | Problem Name | Data Structures | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | ---------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 1 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | String, Two Pointers | O(n + m) | O(n + m) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/1.%20Merge%20Strings%20Alternately.cs) |  |  |
+| 2 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | String, Math | O(n + m) | O(n + m) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/2.%20Greatest%20Common%20Divisor%20of%20Strings.cs) |  |  |
+| 3 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Array | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/3.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cs) |  |  |
+| 4 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Array, Greedy | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/4.%20Can%20Place%20Flowers.cs) |  |  |
+| 5 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | String, Two Pointers | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/5.%20Reverse%20Vowels%20of%20a%20String%20.cs) |  |  |
+| 6 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | String, Two Pointers | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/6.%20Reverse%20Words%20in%20a%20String.cs) |  |  |
+| 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Array, Prefix Sum | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/7.%20Product%20of%20Array%20Except%20Self.cs) |  |  |
+| 8 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Array, Greedy | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/8.%20Increasing%20Triplet%20Subsequence.cs) |  |  |
+| 9 | [String Compression](https://leetcode.com/problems/string-compression/) | Array, Two Pointers | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/9.%20String%20Compression.cs) |  |  |
 
 ---
 
@@ -92,76 +93,83 @@ Every topic is organized into its own section, featuring:
 | Sr. No. | Problem Name | Data Structures | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
 | ------: | ------------ | ---------------- | --------------- | ---------------- | ------------- | ---- | -------- |
 | 10 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75) | Array, Two Pointers | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/10.%20Move%20Zeroes.cs) |  |  |
-| 11 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | String, Two Pointers, Dynamic Programming | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/11.%20Is%20Subsequence.cs) |  |  |
+| 11 | [Is Sequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | String, Two Pointers, Dynamic Programming | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/11.%20Is%20Subsequence.cs) |  |  |
 | 12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=study-plan-v2&envId=leetcode-75) | Array, Two Pointers, Greedy | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/12.%20Container%20With%20Most%20Water.cs) |  |  |
 | 13 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/container-with-most-water/) | Array, Hash Table, Two Pointers, Sorting | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/13.%20Max%20Number%20of%20K-Sum%20Pairs.cs) |  |  |
 
 ---
 
-## Sliding Window
-| Sr. No. | Problem Name                                                                                                                                      | Data Structures | Time Complexity | Space Complexity | Solution Link                                                                                                                                                                       |
-| ------: | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       14 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                                           | Array, Sliding Window                | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/03.%20Sliding%20Window/14.%20Maximum%20Average%20Subarray%20I.cs)                                          |
-|       15 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | String, Sliding Window              | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/03.%20Sliding%20Window/15.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.cs) |
-|       16 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                                               | Array, Binary Search, Sliding Window, Prefix Sum               | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/03.%20Sliding%20Window/16.%20Max%20Consecutive%20Ones%20III.cs)                                            |
-|       17 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)            | Array,Sliding Window, Dynamic Programming                | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/03.%20Sliding%20Window/17.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.cs)          |
+## Sliding Window  
+
+| Sr. No. | Problem Name | Data Structures | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | ---------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 14 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Array, Sliding Window | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/03.%20Sliding%20Window/14.%20Maximum%20Average%20Subarray%20I.cs) |  |  |
+| 15 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | String, Sliding Window | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/03.%20Sliding%20Window/15.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.cs) |  |  |
+| 16 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Array, Binary Search, Sliding Window, Prefix Sum | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/03.%20Sliding%20Window/16.%20Max%20Consecutive%20Ones%20III.cs) |  |  |
+| 17 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Array, Sliding Window, Dynamic Programming | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/03.%20Sliding%20Window/17.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.cs) |  |  |
 
 ---
 
-## Prefix Sum
-| Sr. No. | Problem Name                                                                          | Data Structures | Time Complexity | Space Complexity | Solution Link                                                                                                                         |
-| ------: | ------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-|       18 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Array, Prefix Sum                | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/04.%20Prefix%20Sum/18.%20Find%20the%20Highest%20Altitude.cs) |
-|       19 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                   | Array, Prefix Sum               | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/04.%20Prefix%20Sum/19.%20Find%20Pivot%20Index.cs)            |
+## Prefix Sum  
+
+| Sr. No. | Problem Name | Data Structures | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | ---------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 18 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Array, Prefix Sum | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/04.%20Prefix%20Sum/18.%20Find%20the%20Highest%20Altitude.cs) |  |  |
+| 19 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Array, Prefix Sum | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/04.%20Prefix%20Sum/19.%20Find%20Pivot%20Index.cs) |  |  |
 
 ---
 
-## Hash Map / Hash Set
-| Sr. No. | Problem Name                                                                                            | Data Structures Used | Time Complexity | Space Complexity | Solution Link                                                                                                                                                |
-| ------: | ------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|       20 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)   | Hash Set, Array            | O(n + m)        | O(n + m)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/05.%20Hash%20Map%20%26%20Set/20.%20Find%20the%20Difference%20of%20Two%20Arrays.cs)  |
-|       21 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)             | Hash Map, Hash Set, Array  | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/05.%20Hash%20Map%20%26%20Set/21.%20Unique%20Number%20of%20Occurrences.cs)           |
-|       22 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Hash Map, Sorting, String, Counting   | O(n + k log n)      | O(k)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/05.%20Hash%20Map%20%26%20Set/22.%20Determine%20if%20Two%20Strings%20Are%20Close.cs) |
-|       23 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                 | Hash Map, Array, Matrix, Simulation            | O(n²)           | O(n²)            | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/05.%20Hash%20Map%20%26%20Set/23.%20Equal%20Row%20and%20Column%20Pairs.cs)           |
+## Hash Map / Hash Set  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 20 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Hash Set, Array | O(n + m) | O(n + m) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/05.%20Hash%20Map%20%26%20Set/20.%20Find%20the%20Difference%20of%20Two%20Arrays.cs) |  |  |
+| 21 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Hash Map, Hash Set, Array | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/05.%20Hash%20Map%20%26%20Set/21.%20Unique%20Number%20of%20Occurrences.cs) |  |  |
+| 22 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | Hash Map, Sorting, String, Counting | O(n + k log n) | O(k) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/05.%20Hash%20Map%20%26%20Set/22.%20Determine%20if%20Two%20Strings%20Are%20Close.cs) |  |  |
+| 23 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Hash Map, Array, Matrix, Simulation | O(n²) | O(n²) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/05.%20Hash%20Map%20%26%20Set/23.%20Equal%20Row%20and%20Column%20Pairs.cs) |  |  |
 
 ---
 
-## Stack
-| Sr. No. | Problem Name                                                                                | Data Structures Used | Time Complexity | Space Complexity | Solution Link                                                                                                                       |
-| ------: | ------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-|       24 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Stack, String, Simulation        | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/06.%20Stack/24.%20Removing%20Stars%20From%20a%20String.cs) |
-|       25 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                     | Stack, Array, Simulation        | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/06.%20Stack/25.%20steroid%20Collision.cs)                 |
-|       26 | [Decode String](https://leetcode.com/problems/decode-string/)                               | Stack, String, Recursion        | O(n*k)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/06.%20Stack/26.%20Decode%20String.cs)                      |
+## Stack  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 24 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Stack, String, Simulation | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/06.%20Stack/24.%20Removing%20Stars%20From%20a%20String.cs) |  |  |
+| 25 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Stack, Array, Simulation | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/06.%20Stack/25.%20steroid%20Collision.cs) |  |  |
+| 26 | [Decode String](https://leetcode.com/problems/decode-string/) | Stack, String, Recursion | O(n*k) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/06.%20Stack/26.%20Decode%20String.cs) |  |  |
 
 ---
 
-## Queue
-| Sr. No. | Problem Name                                                                    | Data Structures Used | Time Complexity | Space Complexity | Solution Link                                                                                                               |
-| ------: | ------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- |
-|       27 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue, Data Stream               | O(n)    | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/07.%20Queue/27.%20Number%20of%20Recent%20Calls.cs) |
-|       28 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)                     | Queue, Greedy, String       | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/07.%20Queue/28.%20Dota2%20Senate.cs)               |
+## Queue  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 27 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Queue, Data Stream | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/07.%20Queue/27.%20Number%20of%20Recent%20Calls.cs) |  |  |
+| 28 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Queue, Greedy, String | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/07.%20Queue/28.%20Dota2%20Senate.cs) |  |  |
 
 ---
 
-## Linked List
-| Sr. No. | Problem Name                                                                                                      | Data Structures Used             | Time Complexity | Space Complexity | Solution Link                                                                                                                                                |
-| ------: | ----------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|       29 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Linked List, Two Pointers        | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/09.%20Linked%20List/29.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.cs) |
-|       30 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                       | Linked List                      | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/09.%20Linked%20List/30.%20Odd%20Even%20Linked%20List.cs)                            |
-|       31 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                         | Linked List                      | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/09.%20Linked%20List/31.%20Reverse%20Linked%20List.cs)                               |
-|       32 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)             | Linked List, Two Pointers, Stack | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/09.%20Linked%20List/32.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.cs)         |
+## Linked List  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 29 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Linked List, Two Pointers | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/09.%20Linked%20List/29.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.cs) |  |  |
+| 30 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Linked List | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/09.%20Linked%20List/30.%20Odd%20Even%20Linked%20List.cs) |  |  |
+| 31 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Linked List | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/09.%20Linked%20List/31.%20Reverse%20Linked%20List.cs) |  |  |
+| 32 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Linked List, Two Pointers, Stack | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/09.%20Linked%20List/32.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.cs) |  |  |
 
 ---
 
-## Binary Tree – DFS
-| Sr. No. | Problem Name                                                                                                      | Data Structures Used | Time Complexity | Space Complexity | Solution Link                                                                                                                                                          |
-| ------: | ----------------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       33 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                       | Binary Tree, DFS     | O(n)            | O(h)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/33.%20Maximum%20Depth%20of%20Binary%20Tree.cs)                |
-|       34 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                           | Binary Tree, DFS     | O(n + m)        | O(h1 + h2 + l)            | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/34.%20Leaf-Similar%20Trees.cs)                                |
-|       35 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                 | Binary Tree, DFS     | O(n)            | O(h)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/35.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cs)           |
-|       36 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)                                                       | Binary Tree, DFS     | O(n²)           | O(h)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/36.%20Path%20Sum%20III.cs)                                    |
-|       37 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)       | Binary Tree, DFS, DP | O(n)            | O(h)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/37.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.cs)    |
-|       38 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree, DFS     | O(n)            | O(h)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/38.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cs) |
+## Binary Tree – DFS  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 33 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree, DFS | O(n) | O(h) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/33.%20Maximum%20Depth%20of%20Binary%20Tree.cs) |  |  |
+| 34 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Binary Tree, DFS | O(n + m) | O(h1 + h2 + l) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/34.%20Leaf-Similar%20Trees.cs) |  |  |
+| 35 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Binary Tree, DFS | O(n) | O(h) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/35.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cs) |  |  |
+| 36 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Binary Tree, DFS | O(n²) | O(h) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/36.%20Path%20Sum%20III.cs) |  |  |
+| 37 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Binary Tree, DFS, DP | O(n) | O(h) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/37.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.cs) |  |  |
+| 38 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree, DFS | O(n) | O(h) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/38.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cs) |  |  |
 
 ---
 ## Binary Tree – BFS  
