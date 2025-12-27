@@ -164,124 +164,134 @@ Every topic is organized into its own section, featuring:
 |       38 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Binary Tree, DFS     | O(n)            | O(h)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/10.%20Binary%20Tree%20-%20DFS/38.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cs) |
 
 ---
+## Binary Tree – BFS  
 
-## Binary Tree – BFS
-| Sr. No. | Problem Name                                                                                            | Data Structures Used | Time Complexity | Space Complexity | Solution Link                                                                                                                                                     |
-| ------: | ------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       39 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)               | Binary Tree, BFS     | O(n)            | O(w)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/11.%20Binary%20Tree%20-%20BFS/39.%20Binary%20Tree%20Right%20Side%20View.cs)            |
-|       40 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Binary Tree, BFS     | O(n)            | O(w)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/11.%20Binary%20Tree%20-%20BFS/40.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.cs) |
-
----
-
-## Binary Search Tree
-| Sr. No. | Problem Name                                                                                    | Data Structures Used    | Time Complexity | Space Complexity | Solution Link                                                                                                                                            |
-| ------: | ----------------------------------------------------------------------------------------------- | ----------------------- | --------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       41 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Binary Search Tree, DFS | O(h)            | O(h)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/12.%20Binary%20Search%20Tree/41.%20Search%20in%20a%20Binary%20Search%20Tree.cs) |
-|       42 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)                     | Binary Search Tree, DFS | O(h)            | O(h)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/12.%20Binary%20Search%20Tree/42.%20Delete%20Node%20in%20a%20BST.cs)             |
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 39 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree, BFS | O(n) | O(w) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/11.%20Binary%20Tree%20-%20BFS/39.%20Binary%20Tree%20Right%20Side%20View.cs) |  |  |
+| 40 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Binary Tree, BFS | O(n) | O(w) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/11.%20Binary%20Tree%20-%20BFS/40.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.cs) |  |  |
 
 ---
 
-## Graphs - DFS
-| Sr. No. | Problem Name                                                                                                                                    | Data Structures Used | Time Complexity | Space Complexity | Solution Link                                                                                                                                                                          |
-| ------: | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       43 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                                                 | Graph, DFS           | O(V + E)        | O(v)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/13.%20Graphs%20-%20DFS/43.%20Keys%20and%20Rooms.cs)                                                         |
-|       44 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)                                                                       | Union Find, Graph, DFS           | O(n^2 * α(n))          | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/13.%20Graphs%20-%20DFS/44.%20Number%20of%20Provinces.cs)                                                    |
-|       45 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Graph, DFS           | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/13.%20Graphs%20-%20DFS/45.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.cs) |
-|       46 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/)                                                                           | Graph, DFS, Array, String, Union Find, Shortest Path          | O(E + Q * V)         | O(V + E)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/13.%20Graphs%20-%20DFS/46.%20Evaluate%20Division.cs)                                                        |
+## Binary Search Tree  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 41 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Binary Search Tree, DFS | O(h) | O(h) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/12.%20Binary%20Search%20Tree/41.%20Search%20in%20a%20Binary%20Search%20Tree.cs) |  |  |
+| 42 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Binary Search Tree, DFS | O(h) | O(h) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/12.%20Binary%20Search%20Tree/42.%20Delete%20Node%20in%20a%20BST.cs) |  |  |
 
 ---
 
-## Graphs - BFS
-| Sr. No. | Problem Name                                                                                            | Data Structures Used | Time Complexity | Space Complexity | Solution Link                                                                                                                                            |
-| ------: | ------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       47 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Graph, BFS, Matrix, Queue          | O(m × n)        | O(m × n)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/14.%20Graphs%20-%20BFS/47.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.cs) |
-|       48 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                       | Graph, BFS Matrix, Queue           | O(m × n)        | O(m × n)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/14.%20Graphs%20-%20BFS/48.%20Rotting%20Oranges.cs)                            |
+## Graphs – DFS  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 43 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Graph, DFS | O(V + E) | O(V) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/13.%20Graphs%20-%20DFS/43.%20Keys%20and%20Rooms.cs) |  |  |
+| 44 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Union Find, Graph, DFS | O(n² * α(n)) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/13.%20Graphs%20-%20DFS/44.%20Number%20of%20Provinces.cs) |  |  |
+| 45 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Graph, DFS | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/13.%20Graphs%20-%20DFS/45.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.cs) |  |  |
+| 46 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Graph, DFS, Array, String, Union Find, Shortest Path | O(E + Q·V) | O(V + E) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/13.%20Graphs%20-%20DFS/46.%20Evaluate%20Division.cs) |  |  |
 
 ---
 
-## Heap / Priority Queue
-| Sr. No. | Problem Name                                                                                      | Data Structures Used         | Time Complexity            | Space Complexity | Solution Link                                                                                                                                                    |
-| ------: | ------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       49 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Array, Heap (Priority Queue) | O(n + k log n)                 | O(k)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/15.%20Heap%20%26%20Priority%20Queue/49.%20Kth%20Largest%20Element%20in%20an%20Array.cs) |
-|       50 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Hash Table, Heap             | O(log n)         | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/15.%20Heap%20%26%20Priority%20Queue/50.%20Smallest%20Number%20in%20Infinite%20Set.cs)   |
-|       51 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)             | Array, Greedy, Heap          | O(n log n)                 | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/15.%20Heap%20%26%20Priority%20Queue/51.%20Total%20Cost%20to%20Hire%20K%20Workers.cs)             |
-|       52 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)       | Array, Two Pointers, Heap    | O(n log n) | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/15.%20Heap%20%26%20Priority%20Queue/51.%20Total%20Cost%20to%20Hire%20K%20Workers.cs)    |
+## Graphs – BFS  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 47 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Graph, BFS, Matrix, Queue | O(m·n) | O(m·n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/14.%20Graphs%20-%20BFS/47.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.cs) |  |  |
+| 48 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Graph, BFS, Matrix, Queue | O(m·n) | O(m·n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/14.%20Graphs%20-%20BFS/48.%20Rotting%20Oranges.cs) |  |  |
 
 ---
 
-## Binary Search
-| Sr. No. | Problem Name                                                                                                    | Data Structures Used               | Time Complexity | Space Complexity | Solution Link                                                                                                                                             |
-| ------: | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- | --------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       53 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                     | Binary Search, Interactive         | O(log n)        | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/16.%20Binary%20Search/53.%20Guess%20Number%20Higher%20or%20Lower.cs)             |
-|       54 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Array, Two Pointers, Binary Search, Sorting | O(n log m)      | O(n + m)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/16.%20Binary%20Search/54.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cs) |
-|       55 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                           | Array, Binary Search               | O(log n)        | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/16.%20Binary%20Search/55.%20Find%20Peak%20Element.cs)                            |
-|       56 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                       | Array, Binary Search               | O(n log m)      | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/16.%20Binary%20Search/56.%20Koko%20Eating%20Bananas.cs)                          |
+## Heap / Priority Queue  
 
-
----
-
-## Backtracking
-| Sr. No. | Problem Name                                                                                                  | Data Structures Used             | Time Complexity | Space Complexity | Solution Link                                                                                                                                         |
-| ------: | ------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       57 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Hash Table, String, Backtracking | O(4^n · n)      | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Backtracking/57.%20Letter%20Combinations%20of%20a%20Phone%20Number.cs) |
-|       58 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)                                     | Array, Backtracking              | O(9 choose k) | O(k)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Backtracking/58.%20Combination%20Sum%20III.cs)                         |
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 49 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Array, Heap | O(n + k log n) | O(k) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/15.%20Heap%20%26%20Priority%20Queue/49.%20Kth%20Largest%20Element%20in%20an%20Array.cs) |  |  |
+| 50 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Hash Table, Heap | O(log n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/15.%20Heap%20%26%20Priority%20Queue/50.%20Smallest%20Number%20in%20Infinite%20Set.cs) |  |  |
+| 51 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Array, Greedy, Heap | O(n log n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/15.%20Heap%20%26%20Priority%20Queue/51.%20Total%20Cost%20to%20Hire%20K%20Workers.cs) |  |  |
+| 52 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | Array, Two Pointers, Heap | O(n log n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/15.%20Heap%20%26%20Priority%20Queue/51.%20Total%20Cost%20to%20Hire%20K%20Workers.cs) |  |  |
 
 ---
 
+## Binary Search  
 
-## Dynamic Programming (1D)
-| Sr. No. | Problem Name                                                                          | Data Structures Used  | Time Complexity | Space Complexity | Solution Link                                                                                                                                             |
-| ------: | ------------------------------------------------------------------------------------- | --------------------- | --------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       59 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)       | Math, DP, Memoization | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Dynamic%20Programming%20%281D%29/1.%20N-th%20Tribonacci%20Number.cs)      |
-|       60 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)   | Array, DP             | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Dynamic%20Programming%20%281D%29/2.%20Min%20Cost%20Climbing%20Stairs.cs)  |
-|       61 | [House Robber](https://leetcode.com/problems/house-robber/)                           | Array, DP             | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Dynamic%20Programming%20%281D%29/3.%20House%20Robber.cs)                  |
-|       62 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | DP                    | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Dynamic%20Programming%20%281D%29/4.%20Domino%20and%20Tromino%20Tiling.cs) |
-
-
----
-
-## Dynamic Programming (Multidimensional)
-| Sr. No. | Problem Name                                                                                                                                | Data Structures Used    | Time Complexity | Space Complexity | Solution Link                                                                                                                                                                                    |
-| ------: | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | --------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|       63 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                 | Math, DP, Combinatorics | O(m × n)        | O(m × n)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/19.%20DP%20-%20Multidimensional/63.%20Unique%20Paths.cs)                                                         |
-|       64 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                                     | String, DP              | O(m × n)        | O(m × n)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/19.%20DP%20-%20Multidimensional/64.%20Longest%20Common%20Subsequence.cs)                                         |
-|       65 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Array, DP, Greedy       | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/19.%20DP%20-%20Multidimensional/65.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cs) |
-|       66 | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                                                               | String, DP              | O(m × n)        | O(m × n)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/19.%20DP%20-%20Multidimensional/66.%20Edit%20Distance.cs)                                                        |
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 53 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Binary Search | O(log n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/16.%20Binary%20Search/53.%20Guess%20Number%20Higher%20or%20Lower.cs) |  |  |
+| 54 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Array, Two Pointers, Binary Search, Sorting | O(n log m) | O(n + m) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/16.%20Binary%20Search/54.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cs) |  |  |
+| 55 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Array, Binary Search | O(log n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/16.%20Binary%20Search/55.%20Find%20Peak%20Element.cs) |  |  |
+| 56 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Array, Binary Search | O(n log m) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/16.%20Binary%20Search/56.%20Koko%20Eating%20Bananas.cs) |  |  |
 
 ---
 
-## Bit Manipulation
-| Sr. No. | Problem Name                                                                                                      | Data Structures Used    | Time Complexity   | Space Complexity | Solution Link                                                                                                                                                         |
-| ------: | ----------------------------------------------------------------------------------------------------------------- | ----------------------- | ----------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       67 | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     | DP, Bit Manipulation    | O(n)              | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/20.%20Bit%20Manipulation/67.%20Counting%20Bits.cs)                                           |
-|       68 | [Single Number](https://leetcode.com/problems/single-number/)                                                     | Array, Bit Manipulation | O(n)              | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/20.%20Bit%20Manipulation/68.%20Single%20Number.cs)                                           |
-|       69 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Bit Manipulation        | O(1) (fixed bits) | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/20.%20Bit%20Manipulation/69.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.cs) |
+## Backtracking  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 57 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Hash Table, String, Backtracking | O(4ⁿ·n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Backtracking/57.%20Letter%20Combinations%20of%20a%20Phone%20Number.cs) |  |  |
+| 58 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Array, Backtracking | O(9 choose k) | O(k) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Backtracking/58.%20Combination%20Sum%20III.cs) |  |  |
 
 ---
 
-## Trie
-| Sr. No. | Problem Name                                                                              | Data Structures Used         | Time Complexity | Space Complexity | Solution Link                                                                                                                        |
-| ------: | ----------------------------------------------------------------------------------------- | ---------------------------- | --------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-|       70 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Trie, Hash Table, String, Design   | O(m)            | O(m × n)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/21.%20Trie/70.%20Implement%20Trie%20(Prefix%20Tree).cs) |
-|       71 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)     | Trie, Heap, Array, String, Binary Search, Sorting | O(m log n)      | O(n × m)         | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/21.%20Trie/71.%20Search%20Suggestions%20System.cs)          |
+## Dynamic Programming (1D)  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 59 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Math, DP, Memoization | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Dynamic%20Programming%20(1D)/1.%20N-th%20Tribonacci%20Number.cs) |  |  |
+| 60 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Array, DP | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Dynamic%20Programming%20(1D)/2.%20Min%20Cost%20Climbing%20Stairs.cs) |  |  |
+| 61 | [House Robber](https://leetcode.com/problems/house-robber/) | Array, DP | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Dynamic%20Programming%20(1D)/3.%20House%20Robber.cs) |  |  |
+| 62 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | DP | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/17.%20Dynamic%20Programming%20(1D)/4.%20Domino%20and%20Tromino%20Tiling.cs) |  |  |
 
 ---
 
-## Intervals
-| Sr. No. | Problem Name                                                                                                            | Data Structures Used   | Time Complexity | Space Complexity | Solution Link                                                                                                                                             |
-| ------: | ----------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       72 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                   | Array, DP, Greedy, Sorting      | O(n log n)      | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/22.%20Intervals/72.%20Non-overlapping%20Intervals.cs)                            |
-|       73 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Array, Greedy, Sorting | O(n log n)      | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/22.%20Intervals/73.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cs) |
+## Dynamic Programming (Multidimensional)  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 63 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Math, DP, Combinatorics | O(m·n) | O(m·n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/19.%20DP%20-%20Multidimensional/63.%20Unique%20Paths.cs) |  |  |
+| 64 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | String, DP | O(m·n) | O(m·n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/19.%20DP%20-%20Multidimensional/64.%20Longest%20Common%20Subsequence.cs) |  |  |
+| 65 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Array, DP, Greedy | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/19.%20DP%20-%20Multidimensional/65.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cs) |  |  |
+| 66 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | String, DP | O(m·n) | O(m·n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/19.%20DP%20-%20Multidimensional/66.%20Edit%20Distance.cs) |  |  |
 
 ---
 
-## Monotonic Stack
-| Sr. No. | Problem Name                                                            | Data Structures Used           | Time Complexity  | Space Complexity | Solution Link                                                                                                                    |
-| ------: | ----------------------------------------------------------------------- | ------------------------------ | ---------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-|       74 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Array, Stack, Monotonic Stack  | O(n)             | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/23.%20Monotonic%20Stack/74.%20Daily%20Temperatures.cs)  |
-|       75 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/)   | Stack, Design, Monotonic Stack, Data Stream | O(n)  | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/23.%20Monotonic%20Stack/75.%20Online%20Stock%20Span.cs) |
+## Bit Manipulation  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 67 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | DP, Bit Manipulation | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/20.%20Bit%20Manipulation/67.%20Counting%20Bits.cs) |  |  |
+| 68 | [Single Number](https://leetcode.com/problems/single-number/) | Array, Bit Manipulation | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/20.%20Bit%20Manipulation/68.%20Single%20Number.cs) |  |  |
+| 69 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Bit Manipulation | O(1) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/20.%20Bit%20Manipulation/69.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.cs) |  |  |
 
 ---
+
+## Trie  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 70 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Trie, Hash Table, String, Design | O(m) | O(m·n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/21.%20Trie/70.%20Implement%20Trie%20(Prefix%20Tree).cs) |  |  |
+| 71 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | Trie, Heap, Array, String, Binary Search, Sorting | O(m log n) | O(n·m) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/21.%20Trie/71.%20Search%20Suggestions%20System.cs) |  |  |
+
+---
+
+## Intervals  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 72 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Array, DP, Greedy, Sorting | O(n log n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/22.%20Intervals/72.%20Non-overlapping%20Intervals.cs) |  |  |
+| 73 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Array, Greedy, Sorting | O(n log n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/22.%20Intervals/73.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cs) |  |  |
+
+---
+
+## Monotonic Stack  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 74 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Array, Stack, Monotonic Stack | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/23.%20Monotonic%20Stack/74.%20Daily%20Temperatures.cs) |  |  |
+| 75 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Stack, Design, Monotonic Stack, Data Stream | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/23.%20Monotonic%20Stack/75.%20Online%20Stock%20Span.cs) |  |  |
+
+---
+
 ---
 
 ## 🙏 Thanks!
