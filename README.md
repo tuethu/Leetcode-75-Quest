@@ -1,5 +1,4 @@
 # 📘 LEETCODE CHEATCODES
-
 **LeetCode 75 Study Plan **  
 🔗 [Leetcode's Study Plan](https://leetcode.com/studyplan/leetcode-75/)
 (https://github.com/RikamPalkar/leetcode-75)
@@ -74,9 +73,9 @@ Every topic is organized into its own section, featuring:
 ---
 
 ## Array and String
-| Sr. No. | Problem Name                                                                                                        | Data Structures  | Time Complexity | Space Complexity | Solution Link                                                                                                                                                           |
+| Sr. No. | Problem Name                                                                                                        | Data Structures  | Time Complexity | Space Complexity | Solution Link | Tips  | Progress                                                                                                                                                        |
 | ------: | ------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       1 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                               | String, Two Pointers              | O(n + m)           | O(n + m)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/1.%20Merge%20Strings%20Alternately.cs)                                   |
+|       1 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                               | String, Two Pointers              | O(n + m)           | O(n + m)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/1.%20Merge%20Strings%20Alternately.cs)                                   | | |
 |       2 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)             | String, Math               | O(n + m)             | O(n + m)              | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/2.%20Greatest%20Common%20Divisor%20of%20Strings.cs)              |
 |       3 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Array                | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/3.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cs) |
 |       4 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                               | Array, Greedy                | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/01.%20Arrays%20%26%20Strings/4.%20Can%20Place%20Flowers.cs)                                                   |
