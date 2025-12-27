@@ -87,13 +87,14 @@ Every topic is organized into its own section, featuring:
 
 ---
 
-## Two Pointers
-| Sr. No. | Problem Name                                                                          | Data Structures | Time Complexity | Space Complexity | Solution Link                                                                                                                           |
-| ------: | ------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-|       10 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75)                             | Array, Two Pointers                 | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/10.%20Move%20Zeroes.cs)                   |
-|       11 | [Is Sequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)                             | String, Two Pointers, Dynamic Programming                | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/11.%20Is%20Subsequence.cs)                   |
-|       12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=study-plan-v2&envId=leetcode-75) | Array, Two Pointers, Greedy                | O(n)            | O(1)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/12.%20Container%20With%20Most%20Water.cs) |
-|       13 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/container-with-most-water/) | Array, Hash Table, Two Pointers, Sorting                | O(n)            | O(n)             | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/13.%20Max%20Number%20of%20K-Sum%20Pairs.cs) |
+## Two Pointers  
+
+| Sr. No. | Problem Name | Data Structures | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | ---------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 10 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75) | Array, Two Pointers | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/10.%20Move%20Zeroes.cs) |  |  |
+| 11 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | String, Two Pointers, Dynamic Programming | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/11.%20Is%20Subsequence.cs) |  |  |
+| 12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=study-plan-v2&envId=leetcode-75) | Array, Two Pointers, Greedy | O(n) | O(1) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/12.%20Container%20With%20Most%20Water.cs) |  |  |
+| 13 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/container-with-most-water/) | Array, Hash Table, Two Pointers, Sorting | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/02.%20Two%20Pointers/13.%20Max%20Number%20of%20K-Sum%20Pairs.cs) |  |  |
 
 ---
 
