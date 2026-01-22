@@ -69,6 +69,7 @@ Every topic is organized into its own section, featuring:
 21. Trie  
 22. Intervals  
 23. Monotonic Stack
+24. Sorting (Concept) + Binary Search + Recursion- Đệ Quy
 
 ---
 
@@ -299,6 +300,11 @@ Every topic is organized into its own section, featuring:
 | 75 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Stack, Design, Monotonic Stack, Data Stream | O(n) | O(n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/23.%20Monotonic%20Stack/75.%20Online%20Stock%20Span.cs) |  |  |
 
 ---
+## Sorting (Concept) + Binary Search + Recursion- Đệ Quy  
+
+| Sr. No. | Problem Name | Data Structures Used | Time Complexity | Space Complexity | Solution Link | Tips | Progress |
+| ------: | ------------ | -------------------- | --------------- | ---------------- | ------------- | ---- | -------- |
+| 76 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Sorting (Concept) + Binary Search + Recursion| O(log n) |O(log n) | [Code](https://github.com/RikamPalkar/leetcode-75/blob/main/Leetcode%2075/23.%20Monotonic%20Stack/74.%20Daily%20Temperatures.cs) |  |  |
 
 ---
 
